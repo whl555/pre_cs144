@@ -1,0 +1,3 @@
+D:/code/c++/Windows_CLion_GCC_MinGW/StopWait/cmake-build-debug/CMakeFiles/stop_wait.dir
+D:/code/c++/Windows_CLion_GCC_MinGW/StopWait/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/c++/Windows_CLion_GCC_MinGW/StopWait/cmake-build-debug/CMakeFiles/rebuild_cache.dir
